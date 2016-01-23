@@ -1,1 +1,1 @@
-I track my TODOs add issues in this repository.
+I add my TODOs as issues in this repository.
